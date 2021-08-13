@@ -1,6 +1,6 @@
 # AssetManager 사용방법
 
-> 이 툴은 react-create-app 환경 및 next js 환경에서 테스트 되었습니다. 기타 프로젝트에서도 사용할 수 있을것으로 예상되나, 테스트를 해보지 않아 확신은 할 수 없습니다. 개선사항 혹은 오류에 대한 리포트는 언제든 환영입니다 :)
+> 이 툴은 react-create-app 환경 및 next js 환경에서 테스트 되었습니다. webpack을 사용하면서 동일한 폴더구조를 가진 기타 프로젝트에서도 얼마든지 사용할 수 있을것으로 예상되나, 테스트를 해보지 않아 확신은 할 수 없습니다. 개선사항 혹은 오류에 대한 리포트는 언제든 환영입니다 :)
 
 폴더 구조는
 - src / assets
@@ -32,3 +32,4 @@ const Component = () => {
 ```
 
 > made by ryan
+[BLOG](https://nookpi.tistory.com/97)
