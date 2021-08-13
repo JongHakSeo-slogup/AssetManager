@@ -1,4 +1,4 @@
-#AssetManager 사용방법
+# AssetManager 사용방법
 폴더 구조는
 - src / assets
 - src / assetManager
