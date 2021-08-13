@@ -9,6 +9,7 @@ AssetManager 사용을 위해 package.json 파일을 수정한다.
 ```json
 "scripts" : {
   "start" : "yarn assets & react-script start",
+  "build" : "yarn assets && react-script build",
   "assets" : "node src/assetManager/start.js src/assets",
 },
 ```
